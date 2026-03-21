@@ -1,0 +1,20 @@
+atrackje
+- opiekun (operuje atrakcją, może ustawiać jej stan i tłumaczy jak atrakcja działa)
+- asystent (np. jeżeli park linowy pomaga klientowi skorzystać z atrakcji)
+- klient (używa atrakcji)
+- janitor (ma dostęp do atrakcji, w celu czyszczenia.)
+- inspector (ma dostęp do atrakcji, sprawdza czy atrakcja działa)
+- naprawca/fixer (ma dostęp do atrakcji, osoba co naprawia atrakcję)
+kasa
+- cashier (operuje kasę, wydaje bransoletki)
+- klient (kupuje dostęp do parku/bransoletkę/żetony)
+   * na miejscu (kupuje i dostaje odpowiednią bransoletkę)
+   * zarezerwowany (pokazuje dowód zakupu i odbiera bransoletkę/-i?)
+system pracowników
+- pracownik (dostaje płacę, może zobaczyć swój harmonogram/gdzie jest przypisany)
+- bank (wypłaca pieniądze)
+- menedżer? (ustawia harmonogram)
+kafeteria
+- klient (kupuje jedzenie) (może to byc klient kupujący na miejscu albo już wcześniej zarezerwowany. jeżeli zarezerwowany to pokazuje zamówienie)
+- kasjer? (sprzedaje jedzenie)
+- kucharz (nie jestem pewna jak włączyć do systemu, wydaje się to bardziej jak oddzielny problem)
