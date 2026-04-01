@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Strona-1" id="91qFqK6-AKRA3_b3TAdG">
+    <mxGraphModel dx="983" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fSnBLW2VQ-uIveEUSPmb-1" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="Bramka" vertex="1">
+          <mxGeometry height="90" width="110" x="250" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="fSnBLW2VQ-uIveEUSPmb-2" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="Baza danych" vertex="1">
+          <mxGeometry height="97.5" width="90" x="630" y="276.25" as="geometry" />
+        </mxCell>
+        <mxCell id="fSnBLW2VQ-uIveEUSPmb-3" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="Identyfikacja" vertex="1">
+          <mxGeometry height="102.5" width="90" x="450" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="fSnBLW2VQ-uIveEUSPmb-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Paseczek" vertex="1">
+          <mxGeometry height="80" width="40" x="110" y="281.25" as="geometry" />
+        </mxCell>
+        <mxCell id="fSnBLW2VQ-uIveEUSPmb-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="324.5" as="sourcePoint" />
+            <mxPoint x="230" y="324.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSnBLW2VQ-uIveEUSPmb-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.549;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" target="fSnBLW2VQ-uIveEUSPmb-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="326.25" as="sourcePoint" />
+            <mxPoint x="410" y="276.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSnBLW2VQ-uIveEUSPmb-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.549;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="324.75" as="sourcePoint" />
+            <mxPoint x="630" y="324.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
